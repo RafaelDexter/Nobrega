@@ -11,3 +11,9 @@
 Segue o link do livro usado nas aulas:
 
 :page_facing_up: [Livro](https://s3.amazonaws.com/pnld.ftd.com.br/wp-content/uploads/2021/08/06160716/0221P21203135-MULTIVERSOS-CIE-NAT-LCS-VOL3-MANUAL-001-272-PNLD-2021.pdf)
+
+## Slides
+
+:floppy_disk: [Campo Magnético](#)
+
+:floppy_disk: [Força Magnética](#)
