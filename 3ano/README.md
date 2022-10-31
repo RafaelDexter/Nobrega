@@ -14,6 +14,6 @@ Segue o link do livro usado nas aulas:
 
 ## Slides
 
-:floppy_disk: [Campo Magnético](#)
+:floppy_disk: [Campo Magnético](https://drive.google.com/file/d/19R7RbJet6bv4QodjiISjLQznZWYPsgKP/view?usp=sharing)
 
 :floppy_disk: [Força Magnética](#)
